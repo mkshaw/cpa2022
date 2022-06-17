@@ -1,0 +1,19 @@
+Johnson, P. C. D. (2014). Extension of Nakagawa & Schielzeth's R2GLMM to random slopes models. Methods in Ecology and Evolution, 5(9), 944-946. doi:https://doi.org/10.1111/2041-210X.12225
+
+Kelley, K., & Preacher, K. J. (2012). On effect size. Psychological Methods, 17(2), 137-152. doi:10.1037/a0028086
+
+Nakagawa, S., & Schielzeth, H. (2013). A general and simple method for obtaining R2 from generalized linear mixed-effects models. Methods in Ecology and Evolution, 4(2), 133-142. doi:https://doi.org/10.1111/j.2041-210x.2012.00261.x
+
+Pek, J., & Flora, D. B. (2018). Reporting effect sizes in original psychological research: A discussion and tutorial. Psychological Methods, 23(2), 208-225. doi:10.1037/met0000126
+
+Rights, J. D., & Sterba, S. K. (2019). Quantifying explained variance in multilevel models: An integrative framework for defining R-squared measures. Psychological Methods, 24(3), 309-338. doi:10.1037/met0000184
+
+Rights, J. D., & Sterba, S. K. (2020). New Recommendations on the Use of R-Squared Differences in Multilevel Model Comparisons. Multivariate Behavioral Research, 55(4), 568-599. doi:10.1080/00273171.2019.1660605
+
+Rights, J. D., & Sterba, S. K. (2021). Effect size measures for longitudinal growth analyses: Extending a framework of multilevel model R-squareds to accommodate heteroscedasticity, autocorrelation, nonlinearity, and alternative centering strategies. New Directions for Child and Adolescent Development, 2021(175), 65-110. doi:https://doi.org/10.1002/cad.20387
+
+Shaw, M., Rights, J.D., Sterba, S.K., & Flake, J.K. (in press). r2mlm: R-Squared Measures for Multilevel Models. Behavior Research Methods. doi:10.31234/osf.io/xc4sv.
+
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science, 22(11), 1359-1366. doi:10.1177/0956797611417632
+
+Snijders, T. A. B., & Bosker, R. J. (2011). Multilevel Analysis: An Introduction to Basic and Advanced Multilevel Modeling: SAGE Publications.
